@@ -1,3 +1,3 @@
-# MyPortfolio
+# My Portfolio
 
-This repository contains projects I did in graduate school
+Some cool projects I did in graduate school
